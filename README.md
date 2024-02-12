@@ -3,7 +3,7 @@
 This is a backend api for creating questions and adding options to a specific question. Options can be voted. Questions, options can be deleted and questions can be viewed with all of their options.
 
 ## Hosted Link
-https://polling-api-cpbx.onrender.com/
+https://pollingsystem-hmba.onrender.com/
 
 
 ## Polling system Features
@@ -19,7 +19,7 @@ https://polling-api-cpbx.onrender.com/
 
 - Clone this repository.
 - Run npm install to install all the dependencies.
-- 
+
 ## Usage
 
 - Run npm start to start the application.
